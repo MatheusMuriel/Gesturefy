@@ -1,6 +1,6 @@
 {
   "extensionDescription": {
-    "message": "Customizable mouse gesture addon, which supports over 50 different actions.",
+    "message": "Extenção customizadora de gestos do mouse, com suporte para mais de 50 ações diferentes.",
     "description": "Customizable mouse gesture addon, which supports over 50 different actions."
   },
   "addonUpdateNotificationTitle": {
@@ -108,15 +108,15 @@
     "description": "Opacity"
   },
   "settingNameTraceWidth": {
-    "message": "Line width",
+    "message": "Largura da linha",
     "description": "Line width"
   },
   "settingNameTraceGrowth": {
-    "message": "Line growth",
+    "message": "Crecimento da linha",
     "description": "Line growth"
   },
   "settingNameDisplayAction": {
-    "message": "Display action",
+    "message": "Ação de exibição",
     "description": "Display action"
   },
   "settingNameActionColor": {
@@ -136,7 +136,7 @@
     "description": "Font size"
   },
   "settingNameDisplayDirections": {
-    "message": "Display gesture directions",
+    "message": "Exibir instruções de gesto",
     "description": "Display gesture directions"
   },
   "settingNameDirectionsColor": {
